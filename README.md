@@ -1,6 +1,6 @@
 # 🌍 A Evolução Humana: Das Caravelas à Navegação Digital
 
-**Data de produção:** Outubro de 2025
+**Data de produção:** Setembro de 2025
 
 Projeto desenvolvido para o **Casa Aberta da ETEC de Poá**, com o tema **"A Evolução Humana: das Caravelas à Navegação Digital"**.  
 Esta parte do projeto aborda **a Pré-História**, destacando as principais **invenções e descobertas** que marcaram o início da evolução humana.
